@@ -16,7 +16,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png"></code>
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919827.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png"></code>
-<code><img height="20" src="https://drive.google.com/file/d/17OoMnHt8O3r_eM0duioY3TSAKCWYJKt2/view?usp=sharing"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <code><img height="20" src="https://gilsonpaulo.com.br/media/nodew.jpg"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png"></code>
 
